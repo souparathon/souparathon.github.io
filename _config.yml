@@ -2,7 +2,7 @@
 
 title: L M
 description: Welcome to my portfolio
-taglong: Jekyll theme for a beautiful online CV
+taglong: Welcome to my portfolio!
 tagshort: LM theme
 url: https://cvless.netlify.app
 baseurl: ""
@@ -19,12 +19,12 @@ photo: /assets/jpg/photo.jpg
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  twitter: username
+  #facebook: username
+  github: souparathon
+  #instagram: username
+  linkedin: lillymasie
+  #stackoverflow: 0000000/username
+  #twitter: username
 
 # build settings
 
