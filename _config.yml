@@ -1,19 +1,19 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: L M
+description: Welcome to my portfolio
 taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+tagshort: LM theme
 url: https://cvless.netlify.app
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/souparathon/souparathon.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Lilly Masie
+  email: lilly.masie9@gmail.com
 photo: /assets/jpg/photo.jpg
 
 # social media links
